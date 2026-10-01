@@ -56,7 +56,7 @@ Primeira execução falhou com `Permission denied` ao correr `./mvnw`, porque o 
 
 git update-index --chmod=+x mvnw
 
-Execução final com sucesso: <URL_DO_RUN>
+Execução final com sucesso:https://github.com/beatriz010706/fleetcheck-maven/actions/runs/36920986833
 
 **Nota:** a linha `target/site/jacoco/**` foi removida da lista de artefactos a enviar, porque o plugin JaCoCo não gera relatório sem testes (o projeto inicial não tinha testes em `src/test/java`).
 
